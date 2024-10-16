@@ -2,7 +2,7 @@
 
 This repository accompanies the **Data Modeling** course at TH Köln in the winter semester of 2024/25. Other resources like the lectures slides or the group assignment can be found on [Moodle](https://elearning.iws.th-koeln.de/moodle/course/view.php?id=2565).
 
-**(Please insert links to your personal GitHub account and your group's repository below. You can remove this comment from this README afterwards.)**
+**(Please insert a link to your group's repository below. You can remove this comment from this README afterwards.)**
 
 :octocat: [My GitHub profile](https://github.com/Ya-joy) | :busts_in_silhouette: [My group repository]()
 
